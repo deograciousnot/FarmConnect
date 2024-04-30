@@ -1,51 +1,31 @@
-# All for you - ReactJS Marketplace Project
+# FarmConnect
 
-All for you is a marketplace application for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars, properties and others. Users can sign up and advertise their goods or contact other sellers in case they want to receive more information about the proposed product or to buy it. They can also add products to Wishlist, archive their old sells or unarchive them if they want to be public again after some time. 
+Welcome to FarmConnect, an app that connects farmers directly with consumers.
 
-# Live demo: https://all-for-you.herokuapp.com/
+## Overview
 
-![Preview](https://res.cloudinary.com/silenceiv/image/upload/v1617894482/all-for-you-mockup_dafr6c.jpg)
+FarmConnect is a platform that aims to revolutionize the agricultural marketplace by eliminating middlemen and providing a direct channel for farmers to sell their products to consumers. Through our app, consumers can browse a wide range of farm-fresh products and make purchases directly from local farmers.
 
-# Tech Stack
+## Features
 
-![MERN stack](https://res.cloudinary.com/silenceiv/image/upload/c_fill,h_205,w_512/v1617484581/mern_sakbwj.png)
+- User authentication for farmers and consumers
+- Product listings and categories
+- Messaging functionality for communication between farmers and consumers
+- Cart and checkout functionality
+- Profile management for users
 
-- MERN (MongoDB, Express.js, React, and Node.js) Solution stack;
-- [Cloudinary](https://cloudinary.com/) as a file storage cloud API;
-- [Unsplash](https://unsplash.com/) as image provider;
-- [React-Bootstrap](https://react-bootstrap.github.io/);
-- Responsive Design;
-- UX & UI;
-- Validation and error handling.
+## Getting Started
 
-# How to run 
+To get started with FarmConnect, follow these steps:
 
-- Install [MongoDB](https://www.mongodb.com/try/download)
-- Navigate to server folder
-```bash
-cd server
-```
-- Install all needed packages
-```bash
-npm install
-```
-- Run the server
-```bash
-npm start
-```
-The server will run on http://localhost:5000/
+1. Clone the repository: `git clone https://github.com/your-username/FarmConnect.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
 
-- Navigate to client (react) folder
-```bash
-cd client
-```
-- Install all needed packages
-```bash
-npm install
-```
-- And run the application
-```bash
-npm start
-```
-The app will run on http://localhost:3000/
+## Contributing
 
+Contributions are welcome! If you have any ideas for improving FarmConnect or want to report a bug, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
